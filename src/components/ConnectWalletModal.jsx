@@ -1,6 +1,5 @@
 import { Fragment } from "react";
 import { Dialog, Transition } from "@headlessui/react";
-import fox from "../images/fox.png";
 
 
 
@@ -59,22 +58,22 @@ export default function ConnectWalletModal({ open, setOpen }) {
                 </svg>
               </div>
               <h1 className="uppercase text-2xl tracking-wider font-bold mb-2">
-              Sorry, but you can’t connect your wallet just yet!
+                Sorry, but you can’t connect your wallet just yet!
               </h1>
               <hr className="border-[1px] border-greenC" />
               <p className="mt-5 text-lg capitalize">Please try again when our Citizenship NFTs are ready for minting.</p>
               <a href="https://twitter.com/karameladao">
-              <button className="px-3 py-2 mt-8 w-full tracking-wide shadow-md shadow-cyan-500/50 bg-fuchsia-300 rounded-md border-2 border-blue-600 flex items-center justify-between focus:outline-none">
-                Follow us on Twitter
-                
-              </button>
+                <button className="px-3 py-2 mt-8 w-full tracking-wide shadow-md shadow-cyan-500/50 bg-fuchsia-300 rounded-md border-2 border-blue-600 flex items-center justify-between focus:outline-none">
+                  Follow us on Twitter
+
+                </button>
               </a>
 
               <a href="https://discord.gg/dKdeANjg8p">
-              <button className="px-3 py-2 mt-5 w-full tracking-wide shadow-md shadow-cyan-500/50 bg-fuchsia-300 rounded-md border-2 border-blue-600 flex focus:outline-none">
-                
-                Join our Discord
-              </button>
+                <button className="px-3 py-2 mt-5 w-full tracking-wide shadow-md shadow-cyan-500/50 bg-fuchsia-300 rounded-md border-2 border-blue-600 flex focus:outline-none">
+
+                  Join our Discord
+                </button>
               </a>
             </div>
           </Transition.Child>
