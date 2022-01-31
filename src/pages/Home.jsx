@@ -47,42 +47,36 @@ const Home = () => {
               DAO
             </p>
             <p className="mt-5 text-indigo-200 text-xl sm:text-2xl xl:text-4xl font-bold tracking-wider quick-sand">
-            We power the world's Web3
+
+              Making it to
             </p>
             <p className="mt-5 text-indigo-200 text-xl sm:text-2xl xl:text-4xl font-bold tracking-wider quick-sand">
-            education!
+              3 Million Ether (~1 Billion Dollars)
             </p>
-            <button
-              className="px-6 py-3 mt-10 capitalize text-white text-lg sm:text-xl xl:text-2xl border-2 border-red-500 bg-gradient-to-r from-pink-600 to-rose-400 rounded-md shadow-xl transition duration-300 ease-in-out hover:scale-105"
-              onClick={() => {
-                setOpenModal(true);
-              }}
-            >
-              Become a citizen
-            </button>
-            <a href="https://mirror.xyz/karameladao.eth">
-            <button className="mt-5 capitalize text-white sm:text-lg xl:text-xl underline block mx-auto">
-              learn more
-            </button>
+            <a href="https://karameladao.notion.site/karameladao/KaramelaDAO-Townhall-f3ecf03d27e246dea8c03f4d6aae3088">
+              <button className="mt-5 capitalize text-white sm:text-lg xl:text-xl underline block mx-auto">
+                learn more
+              </button>
             </a>
           </div>
-          <ConnectWalletModal open={openModal} setOpen={setOpenModal} />
         </div>
 
         <div className="lg:grid lg:grid-cols-8 mt-5 lg:mt-10">
           <div></div>
           <div className="glass p-5 sm:p-8 xl:p-12 col-span-6 place-items-center">
             <p className="text-center sm:text-lg text-white">
-            We simplify Web3 and blockchain concepts, increase awareness and spread this knowledge across the world. Karamela is a Decentralized Autonomous Organization run by people for people (PfP).
+              KaramelaDAO sweetenomics are straight FW: 1000 projects, $1M of revenue each, 1B of revenue.
+              50% of profits will be distributed to its citizens, 30% will remain to the treasury, 10% marketing and 10% charity
+
             </p>
             <img src={img} alt="logo" className="h-36 mx-auto mt-8" />
           </div>
           <div></div>
         </div>
 
-        {/* -----------------------------WHAT WE STAND FOR---------------------------- */}
+        {/* -----------------------------HOW---------------------------- */}
         <h1 className="text-white mt-12 lg:mt-24 text-2xl md:text-4xl text-center quick-sand">
-          What we stand for
+          How
         </h1>
         <div className="grid lg:grid-cols-3 gap-5 md:gap-8 mt-5 md:mt-10 md:mx-20">
           {standForList.map((stand) => (
