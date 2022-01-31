@@ -25,8 +25,6 @@ const standForList = [
 ];
 
 const Home = () => {
-  const [] = useState(false);
-
   return (
     <>
       <section className="mx-5 lg:mx-8 xl:mx-12 2xl:mx-32 mt-10 mb-14">
