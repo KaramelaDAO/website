@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { BsTwitter, BsDiscord } from "react-icons/bs";
-import ConnectWalletModal from "../components/ConnectWalletModal";
 import img from "../images/1.png";
 import heart from "../images/heart.png";
 import eye from "../images/eye.png";
@@ -26,7 +25,7 @@ const standForList = [
 ];
 
 const Home = () => {
-  const [openModal, setOpenModal] = useState(false);
+  const [] = useState(false);
 
   return (
     <>
