@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { BsTwitter, BsDiscord } from "react-icons/bs";
 import img from "../images/1.png";
 import heart from "../images/heart.png";
