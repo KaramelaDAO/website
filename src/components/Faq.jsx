@@ -31,7 +31,7 @@ const faqList = [
     id: 4,
     question: "Q. $Lollipop Documentation",
     answer:
-    "<a href='/Lollipop_Documentation.pdf' download>Please click here download the documentation file.</a>",
+    "<a href='/Lollipop_Documentation.pdf' download>Please click here to download the documentation file.</a>",
     answer2:
     " ",
     },
