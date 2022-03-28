@@ -1,9 +1,5 @@
----
-coverY: 0
----
+# Welcome to KaramelaDAO
 
-# Welcome!
+Check our [website](https://karameladao.com/) and follow the links there.
 
-## Welcome aboard!
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
