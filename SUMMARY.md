@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Welcome to the DAO](README.md)
 
 ## The Company
 
