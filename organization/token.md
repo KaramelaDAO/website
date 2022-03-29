@@ -19,8 +19,8 @@ As it was decided in the recent proposal all Lollipop coins are going to be spli
 
 One of the cool things about Lollipop and the KaramelaDAO is that Lollipop coins can be exchanged at any time for a percentage of the ETH that exists in the KaramelaDAO treasury. This gives the workers and HODLers of the Lollipop coin the incentive to hold on their coins for longer, as their value grows as the value of the Treasury grows! This means that we all get to participate on the upside, not just the citizens! Here is a simple example of how this works. Imagine you did some fabulous work for the DAO and you got paid 10,000 LOLL. This means that you are automatically entitled to 1% (i.e. 10K coins you own / 1M total coins). Let’s assume that the KaramelaDAO Treasury has 100 ETH at the moment. So now you have the following two options:
 
-1. 1.Immediately redeem your 10,000 LOLL for the 1% of the Treasury, i.e. 1 ETH.
-2. 2.Wait a few months or years. If the Treasury has 10,000 ETH you can now redeem your 10,000 LOLL for the 1% of the Treasury, i.e. 100 ETH! This means that the bigger the DAO grows the more money you make! It’s that sweet? Note, you can find and monitor the activity of the KaramelaDAO treasury here. This is our temporary DAO wallet.
+1. Immediately redeem your 10,000 LOLL for the 1% of the Treasury, i.e. 1 ETH.
+2. Wait a few months or years. If the Treasury has 10,000 ETH you can now redeem your 10,000 LOLL for the 1% of the Treasury, i.e. 100 ETH! This means that the bigger the DAO grows the more money you make! It’s that sweet? Note, you can find and monitor the activity of the KaramelaDAO treasury here. This is our temporary DAO wallet.
 
 ### Legal and Other Important Information <a href="#legal-and-other-important-information" id="legal-and-other-important-information"></a>
 
