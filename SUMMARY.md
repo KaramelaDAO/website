@@ -2,9 +2,9 @@
 
 * [🍭 Welcome to KaramelaDAO](README.md)
 
-## 🤝 Connect
+## Connect
 
-* [👉 How to join](connect/vision-and-values.md)
+* [🤝 How to join](connect/vision-and-values.md)
 * [👌 Behavioral Guidelines](connect/meet-the-team.md)
 
 ## Organization
