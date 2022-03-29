@@ -2,7 +2,7 @@
 description: Here is a list of what tools we use in our community, and why
 ---
 
-# Tools
+# ⛓ Tools
 
 ## Snapshot
 
