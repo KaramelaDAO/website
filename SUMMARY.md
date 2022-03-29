@@ -1,13 +1,14 @@
 # Table of contents
 
-* [Welcome to the DAO](README.md)
+* [Welcome to KaramelaDAO](README.md)
 
-## The Company
+## 🤝 Connect
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [How to join](connect/vision-and-values.md)
+* [Meet the Team!](connect/meet-the-team.md)
 
 ## The Formal Stuff
 
 * [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
+* [Tools](the-formal-stuff/tools.md)
 * [Filing Expenses](the-formal-stuff/filing-expenses.md)
