@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# Our Token ($loll)
+# 💰 Our Token ($loll)
 
 ### Lollipop Token Information <a href="#lollipop-token-information" id="lollipop-token-information"></a>
 

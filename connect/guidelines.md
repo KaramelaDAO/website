@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Behavioral Guidelines
+# 👌 Behavioral Guidelines
 
 * Due to the multinational nature of the DAO, please use English. If an oral discussion takes place between members who speak the same language other than English, then this discussion may take place in that language. Certain onboarding calls may be bilingual.&#x20;
 * Due to the multinational nature of the DAO, please use English. If an oral discussion takes place between members who speak the same language other than English, then this discussion may take place in that language. Certain onboarding calls may be bilingual.&#x20;

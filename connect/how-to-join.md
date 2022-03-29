@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/logoblog5.jpg
 coverY: 0
 ---
 
-# How to join
+# 🤝 How to join
 
 ### Followers
 

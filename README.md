@@ -3,7 +3,7 @@ cover: .gitbook/assets/logo (1).jpg
 coverY: 0
 ---
 
-# Welcome to KaramelaDAO
+# 🍭 Welcome to KaramelaDAO
 
 KaramelaDAO is a for-profit decentralized autonomous organization.
 

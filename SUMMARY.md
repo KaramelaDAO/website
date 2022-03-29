@@ -4,11 +4,11 @@
 
 ## Connect
 
-* [🤝 How to join](connect/vision-and-values.md)
-* [👌 Behavioral Guidelines](connect/meet-the-team.md)
+* [🤝 How to join](connect/how-to-join.md)
+* [👌 Behavioral Guidelines](connect/guidelines.md)
 
 ## Organization
 
-* [💰 Our Token ($loll)](organization/requesting-time-off.md)
-* [💻 Discord](organization/filing-expenses.md)
+* [💰 Our Token ($loll)](organization/token.md)
+* [💻 Discord](organization/discord.md)
 * [⛓ Tools](organization/tools.md)
