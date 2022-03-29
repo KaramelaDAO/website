@@ -5,10 +5,10 @@
 ## 🤝 Connect
 
 * [How to join](connect/vision-and-values.md)
-* [Meet the Team!](connect/meet-the-team.md)
+* [Behavioral Guidelines](connect/meet-the-team.md)
 
-## The Formal Stuff
+## Organization
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Tools](the-formal-stuff/tools.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Our Token ($loll)](organization/requesting-time-off.md)
+* [Discord](organization/filing-expenses.md)
+* [Tools](organization/tools.md)
