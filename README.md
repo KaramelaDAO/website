@@ -5,7 +5,7 @@ coverY: 0
 
 # 🍭 Welcome to KaramelaDAO
 
-KaramelaDAO is a for-profit decentralized autonomous organization.
+KaramelaDAO is a decentralized autonomous organization.
 
 Inside Karamela you will find Teams and Projects , with goals that range from education to profitability.
 
