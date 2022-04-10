@@ -48,7 +48,7 @@ Below, we have prepared a comprehensive guide for you!&#x20;
 
 
 
-Setting up MetaMask
+### Setting up MetaMask
 
 ***
 
