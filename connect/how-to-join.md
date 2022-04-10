@@ -19,5 +19,8 @@ Becoming a Baker requires to hold our token ($loll). The simpliest way to receiv
 ## Citizens
 
 Becoming a Citizen requires an NFT Citizenship. The easiest and fastest way to become a Citizen, is to purchase one of the NFT Citizenships when they are available.\
-Only 300 NFTs will be available, the first 10 are already out, so hurry up! [https://omgdrops.com/karameladao/karameladao-nft-citizenship-first-builders\_XnrLpELhoy/\
+Only 300 NFTs will be available, the first 10 are already out, so hurry up! [https://omgdrops.com/karameladao/karameladao-nft-citizenship-first-builders\_XnrLpELhoy](https://omgdrops.com/karameladao/karameladao-nft-citizenship-first-builders\_XnrLpELhoy/)[\
 ](https://omgdrops.com/karameladao/karameladao-nft-citizenship-first-builders\_XnrLpELhoy/)
+
+Here you can find a 10 Step Guide on how to join our DAO\
+[https://wiki.karameladao.com/10-steps-to-join-karameladao](https://wiki.karameladao.com/10-steps-to-join-karameladao)
