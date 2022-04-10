@@ -247,9 +247,13 @@ How it works:
 
 ## <mark style="color:purple;">9. Fill in our onboarding survey</mark>
 
-https://docs.google.com/forms/d/e/1FAIpQLSeC746A0LOlMpV0zQGrA8GiiDXcTcL5ltBRfZ0h9eIGGHztlg/viewform If it crossed your mind... we don’t like bureaucracy either… But we are obsessed to get to know you better and mostly to have a smooth onboarding. As a result, you can really very quickly integrate, contribute, take over your first task and add value to our DAO (already the word “our”, includes YOU of course!).
+If it crossed your mind... we don’t like bureaucracy either… But we are obsessed to get to know you better and mostly to have a smooth onboarding.&#x20;
 
-So, wisely invest some minutes to answer a few simple questions and... you will be awarded (once again!) 3 $lolls!
+As a result, you can really very quickly integrate, contribute, take over your first task and add value to our DAO (already the word “our”, includes YOU of course!).
+
+So, wisely invest some minutes to answer a few simple questions and you will be awarded (once again!) 3 $lolls!
+
+***
 
 ***
 
