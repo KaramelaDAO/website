@@ -16,3 +16,4 @@
 ***
 
 * [10 Steps to Join KaramelaDAO](10-steps-to-join-karameladao.md)
+* [Karamela DAO Notion guide](karamela-dao-notion-guide.md)

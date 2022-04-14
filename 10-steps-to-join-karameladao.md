@@ -32,7 +32,8 @@ So, here is your invitation to come and join the sweetest DAO!\
 
 ## <mark style="color:purple;">2.Go to #intro channel in Discord</mark>&#x20;
 
-You have already made great advance… It’s about time for the “to know us better” step. On your left hand side, there is an #intro channel. You are more than welcome to visit and introduce yourself by sharing whatever you feel Karamelians should know about you - …yep, we mean anything you would like to share with us.
+You have already made great advance… It’s about time for the “to know us better” step. \
+On your left hand side, there is an #intro channel. You are more than welcome to visit and introduce yourself by sharing whatever you feel Karamelians should know about you - …yep, we mean anything you would like to share with us.
 
 ## <mark style="color:purple;">3. Snoop around #chit-chat channel in Discord</mark>&#x20;
 
