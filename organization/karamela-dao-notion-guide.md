@@ -1,6 +1,6 @@
 # Karamela DAO Notion guide
 
-![](.gitbook/assets/0)
+![](../.gitbook/assets/0)
 
 This is a guide for the karamela DAO Notion.
 
@@ -18,7 +18,7 @@ The software includes a tool for "clipping" content from webpages. Notion helps 
 
 Notion for karamela DAO is a place with information about our DAO. You can read how the DAO is working and how it operates. It is really simple to navigate like a simple website.
 
-![](.gitbook/assets/1)
+![](../.gitbook/assets/1)
 
 #### **How to update it?** <a href="#_5agavvf1z5a3" id="_5agavvf1z5a3"></a>
 
@@ -26,14 +26,14 @@ There is a button on the top right “edit” that you can enable an edit mode t
 
 When the edit mode is enabled some extra things appear in the content. A “+” icon can add more things in the page.
 
-![](.gitbook/assets/2)
+![](../.gitbook/assets/2)
 
 A new selection list will appear and you can select some items to add into the page.
 
-![](.gitbook/assets/3)
+![](../.gitbook/assets/3)
 
 These items are really simple and you can update them like any simple text editor.
 
 Once you have done there is a button on the top that will end up in the edit mode.
 
-![](.gitbook/assets/4)
+![](../.gitbook/assets/4)
