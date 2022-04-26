@@ -7,6 +7,10 @@
 * [🤝 How to join](connect/how-to-join.md)
 * [👌 Behavioral Guidelines](connect/guidelines.md)
 
+***
+
+* [❓ FAQ](faq.md)
+
 ## Organization
 
 * [💰 Our Token ($loll)](organization/token.md)
