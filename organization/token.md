@@ -9,7 +9,7 @@ coverY: 0
 
 ### Lollipop Token Information
 
-As we have already discussed, Lollipop is a simple ERC20 contract on the Polygon Network.
+Lollipop is a simple ERC20 contract on the Polygon Network.
 
 ![](../.gitbook/assets/10)
 
