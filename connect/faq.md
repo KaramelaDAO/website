@@ -15,7 +15,7 @@ A DAO is a member-owned community without centralized leadership, whose members 
 We are a DAO that creates projects.\
 We do it in a fair and open way
 
-**How can I participate in KaramelaDAO**
+### **How can I participate in KaramelaDAO**
 
 We have 2 roles in our DAO :
 
@@ -26,6 +26,10 @@ Our Bakers, the workers and community of our DAO, which hold our crypto-token ->
 _You can also pin us , on our webplaces :_
 
 __[_LinkedIn_](https://www.linkedin.com/mwlite/company/karameladao) _|_ [_Twitter_](https://twitter.com/karameladao) _|_ [_Medium_](https://mirror.xyz/karameladao.eth)
+
+### What will i need to participate?&#x20;
+
+A Metamask Wallet. If you need help setting up one, we got you covered [here](https://wiki.karameladao.com/guides/setting-up-metamask)
 
 ## Onboarding <a href="#_5lp0ulfan5ep" id="_5lp0ulfan5ep"></a>
 
@@ -95,6 +99,10 @@ Our token ($loll) is a simple ERC20 contract on the Polygon Network.
 You can go to PolyScan to monitor the Lollipop activity and get more information about our token. Also, don’t forget to go to our github if you want to dig deeper into the secrets of the sweetest token in the metaverse.
 
 ### **How do I see $loll on Metamask** <a href="#_9eb5j2welvvv" id="_9eb5j2welvvv"></a>
+
+Check our guides :\
+on [Adding Polygon Network](https://wiki.karameladao.com/guides/setting-up-metamask/adding-polygon-network) &\
+on [Adding Lollipop token](https://wiki.karameladao.com/guides/setting-up-metamask/adding-polygon-network) , on Metamask
 
 ### **What is the general Tokenomics structure?** <a href="#_ta7x90xdhx0" id="_ta7x90xdhx0"></a>
 
