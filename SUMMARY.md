@@ -17,10 +17,7 @@
 ## GUIDES
 
 * [10 Steps to Join KaramelaDAO](guides/10-steps-to-join-karameladao.md)
-* [Karamela DAO Notion guide](guides/karamela-dao-notion-guide.md)
 * [Setting Up Metamask](guides/setting-up-metamask/README.md)
   * [Adding Polygon Network](guides/setting-up-metamask/adding-polygon-network.md)
-
-***
-
-* [Adding Lollipop Token](adding-lollipop-token.md)
+  * [Adding Lollipop Token](guides/setting-up-metamask/adding-lollipop-token.md)
+* [Karamela DAO Notion guide](guides/karamela-dao-notion-guide.md)
