@@ -102,7 +102,9 @@ You can go to PolyScan to monitor the Lollipop activity and get more information
 
 Check our guides :\
 on [Adding Polygon Network](https://wiki.karameladao.com/guides/setting-up-metamask/adding-polygon-network) &\
-on [Adding Lollipop token](https://wiki.karameladao.com/guides/setting-up-metamask/adding-polygon-network) , on Metamask
+on [Adding Lollipop token](https://wiki.karameladao.com/guides/setting-up-metamask/adding-polygon-network) , on Metamask\
+\
+or a more detailed version [here](https://wiki.karameladao.com/guides/10-steps-to-join-karameladao#7.add-polygon-network-+lollipop-tokens-to-your-metamask-wallet), from our [10 Steps Guide](https://wiki.karameladao.com/guides/10-steps-to-join-karameladao)
 
 ### **What is the general Tokenomics structure?** <a href="#_ta7x90xdhx0" id="_ta7x90xdhx0"></a>
 
