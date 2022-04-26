@@ -30,7 +30,7 @@ When the edit mode is enabled some extra things appear in the content. A “+”
 
 A new selection list will appear and you can select some items to add into the page.
 
-![](../.gitbook/assets/3)
+![](<../.gitbook/assets/3 (1)>)
 
 These items are really simple and you can update them like any simple text editor.
 

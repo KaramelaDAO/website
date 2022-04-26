@@ -13,19 +13,15 @@ A DAO is a member-owned community without centralized leadership, whose members 
 ### **What is Karamela DAO ?** <a href="#_5cu8ag3optkf" id="_5cu8ag3optkf"></a>
 
 We are a DAO that creates projects.\
-We do it in a fair and open way\
+We do it in a fair and open way
 
-
-### **How can I participate in KaramelaDAO** <a href="#_m4x0em8zib3u" id="_m4x0em8zib3u"></a>
+**How can I participate in KaramelaDAO**
 
 We have 2 roles in our DAO :
 
-\
 Our Citizens, which hold 1 of the only 300 NFT-stocks of Karamela DAO
 
-\
-Our Bakers, the workers and community of our DAO, which hold our crypto-token -> $lollipop\
-
+Our Bakers, the workers and community of our DAO, which hold our crypto-token -> $lollipop
 
 _You can also pin us , on our webplaces :_
 
@@ -90,8 +86,6 @@ To do that, a Citizen (or a group of them) should apply with a formal proposal.
 Your rights are to vote, participate, work and invest in our DAO.\
 Your obligation is to be Sweet!
 
-———
-
 ## Tokenomics <a href="#_kyfj1d87x5hi" id="_kyfj1d87x5hi"></a>
 
 ### **What is $loll (lollipop token)?** <a href="#_6g5ca5sl0jhn" id="_6g5ca5sl0jhn"></a>
@@ -102,7 +96,7 @@ You can go to PolyScan to monitor the Lollipop activity and get more information
 
 ### **How do I see $loll on Metamask** <a href="#_9eb5j2welvvv" id="_9eb5j2welvvv"></a>
 
-#### **What is the general Tokenomics structure?** <a href="#_ta7x90xdhx0" id="_ta7x90xdhx0"></a>
+### **What is the general Tokenomics structure?** <a href="#_ta7x90xdhx0" id="_ta7x90xdhx0"></a>
 
 Karamelonomics are simple :\
 50% of profits will go to Karamelians, through our token ($loll).\
@@ -115,11 +109,11 @@ Thus the **minimum** $loll value will always be $loll =
 10% marketing\
 10% charity
 
-#### **Have those tokenomics been tried before, in other projects/DAOs ?** <a href="#_vsab5qrr1oe0" id="_vsab5qrr1oe0"></a>
+### **Have those tokenomics been tried before, in other projects/DAOs ?** <a href="#_vsab5qrr1oe0" id="_vsab5qrr1oe0"></a>
 
 No. Karamelonomics are genuine, and we believe it would be an amazing way of blending workers with stockholders, in a creative web3 way
 
-#### **Can I convert my $loll?** <a href="#_z93rko1i4apk" id="_z93rko1i4apk"></a>
+### **Can I convert my $loll?** <a href="#_z93rko1i4apk" id="_z93rko1i4apk"></a>
 
 Yes. We have our DEX (Decentralized exchange) almost ready and will share the details soon.
 
