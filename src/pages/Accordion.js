@@ -17,39 +17,20 @@ const Accordion = () => {
   const accordionItems = [
     {
       id: 0,
-      question: "What’s the best thing about Switzerland?",
-      answer:
-        "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+      question: "What is a DAO?",
+      answer: "A decentralized autonomous organization (DAO) is a new kind of entity that operates without central authority or leadershp. Decisions are made from the bottom-up, governed by rules enforced on a blockchain. Members are issued governance tokens, which they use to vote on important decisions, such as how to invest treasury funds or which projects to focus on. In their purest form, DAOs operate like machines, with the tasks they are instructed to carry out determined by rules embedded into smart contracts. Therefore no managers are needed, thus removing any bureaucracy or hierarchy hurdles.",
     },
     {
       id: 1,
-      question: "How do you make holy water?",
+      question: "How do I join?",
       answer:
-        "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+        "Becoming a Citizen require a Citizenship NFT. Only 10 NFTs are available for now, so make sure that you are watching the action on the Discord. For a limited time, temporary Citizenships are also available. If you participate in one of our Community Calls (virtual or physical), you’ll be granted a POAP (Proof of Participation) that you can use to vote and propose new motions. These temporary Citizenships will be deactivated when the DAO moves from the Genesis phase to the next one. Join our Discord for more information.",
     },
     {
       id: 2,
-      question: "What do you call someone with no body and no nose?",
+      question: "How do I learn more?",
       answer:
-        "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
-    },
-    {
-      id: 3,
-      question: "Why do you never see elephants hiding in trees?",
-      answer:
-        "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
-    },
-    {
-      id: 4,
-      question: "Why can’t you hear a pterodactyl go to the bathroom?",
-      answer:
-        "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
-    },
-    {
-      id: 5,
-      question: "Why did the invisible man turn down the job offer?",
-      answer:
-        "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+        "Follow us on Twitter, and join our Discord. You'll find lots of interesting discussions about DAOs, NFTs, blockchains and related topics. Plus a caring, supportive group to help you learn about these transformative technologies and get involved in the DAO.",
     },
   ];
   return (
