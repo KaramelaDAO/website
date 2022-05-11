@@ -1,16 +1,13 @@
 module.exports = {
-  mode: "jit",
-  content: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
-    extend: {
-      colors: {
-        purpleC: '#6e3fa3',
-        greenC: "#00c65e",
-        yellowC: "#bba600",
-        redC: "#f93822"
-      },
+    colors: {
+      "bg-primary": "#121218",
+      "text-primary": "#ffffff",
+    },
+    fontFamily: {
+      sans: ["Quicksand", "sans-serif"],
     },
   },
-  variants: {},
   plugins: [],
-}
+};

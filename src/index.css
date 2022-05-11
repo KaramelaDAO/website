@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #121218;
+  color: #ffffff;
+}
+
+.gradient-border {
+  position: relative;
+  box-sizing: border-box;
+  background-clip: padding-box;
+  border: 1px solid transparent;
+  border-radius: 8px;
+}
+
+.gradient-border::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  margin: -1px;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #6e3fa3 0%, #00c65e 100%);
+}
+
+.hero-bg {
+  background-image: url("./assets//images//bg-hero.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.frost-bg {
+  background: linear-gradient(
+    97.24deg,
+    rgba(230, 244, 247, 0.2) 0%,
+    rgba(230, 244, 247, 0.2) 98.44%
+  );
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-radius: 36px;
+}

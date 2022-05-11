@@ -1,46 +1,70 @@
----
-cover: .gitbook/assets/logo (1).jpg
-coverY: 0
----
+# Getting Started with Create React App
 
-# 🍭 Welcome to KaramelaDAO
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-KaramelaDAO is a decentralized autonomous organization.
+## Available Scripts
 
-Inside Karamela you will find Teams and Projects , with goals that range from education to profitability.
+In the project directory, you can run:
 
-KaramelaDAO’s goal is to be the first DAO to reach 1Billion in revenue from all projects.
+### `npm start`
 
-We don’t have hierarchy, people are organized in Teams in a free and open way, in which everyone is invited to participate and make additions.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Mission & Values
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### Our Mission
+### `npm test`
 
-\-Democratize via education the beneficial role of DAOs&#x20;
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-\-Democratize via education access and use of NFTs and Cryptos in an equitable manner
+### `npm run build`
 
-\-Providing meta-knowledge for the future …&#x20;
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-\-Identification of potential organizations that deal with issues included in the DAO’s vision and investment opportunities&#x20;
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-\-Providing access to community-based investment decisions and investment participation (Notes: essentially the DAO will be responsible for performing analysis, proposals, due diligence, voting etc. on investment opportunities. This could start as an "angel fund" and gradually get bigger.&#x20;
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-\-Based on the citizens' skills we could also boost such opportunities/initiatives by launching an accelerator/edu program. Examples: The LAO & MetaCartel Ventures DAOs)&#x20;
+### `npm run eject`
 
-\-Creating unique experiences in the emerging Web3
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### Our Values
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-#### Be Compassionate
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-We treat everyone we encounter with compassion, seeing the humanity behind their problems and experiences.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-#### Be Mindful
+## Learn More
 
-We do not take advantage of our users' attention and adopt mindful working practices so that we can create safe spaces both in our working environment and in our products themselves.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-#### Research First
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-We challenge our own and others' assumptions through qualitative and quantitative research. Not sure about an idea? Test it.
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

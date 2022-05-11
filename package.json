@@ -1,28 +1,25 @@
 {
-  "name": "react_jit",
+  "name": "llaliotis-nft-react-tailwind-css",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@headlessui/react": "^1.4.2",
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
-    "html-react-parser": "^1.4.4",
-    "postcss-cli": "^9.1.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-icons": "^4.3.1",
-    "react-router": "^6.1.1",
-    "react-router-dom": "^6.1.1",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.1.1",
+    "@testing-library/user-event": "^13.5.0",
+    "classnames": "^2.3.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-responsive": "^9.0.0-beta.6",
+    "react-scripts": "5.0.1",
+    "react-transition-group": "^4.4.2",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
+    "winStart": "set \"GENERATE_SOURCEMAP=false\" &&  react-scripts build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "watch:css": "postcss -w src/styles/tailwind.css -o src/styles/output.css"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -43,9 +40,8 @@
     ]
   },
   "devDependencies": {
-    "@tailwindcss/jit": "^0.1.18",
-    "autoprefixer": "^10.4.0",
-    "postcss": "^8.4.5",
-    "tailwindcss": "^3.0.2"
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.13",
+    "tailwindcss": "^3.0.24"
   }
 }
