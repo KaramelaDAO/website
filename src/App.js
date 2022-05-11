@@ -1,5 +1,5 @@
 import React from "react";
-import { Home, Values, Token, Accordion, Footer } from "./pages";
+import { Home, Token, Footer } from "./pages";
 
 const App = () => {
   return (
