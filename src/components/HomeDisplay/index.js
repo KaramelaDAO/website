@@ -26,8 +26,9 @@ const HomeDisplay = () => {
             </div>
           </p>
           <div className="flex flex-col md:flex-row items-center justify-center w-full">
-            <a href="https://wiki.karameladao.com/"><MainButton text={"Learn more"} /></a>
+            <a target="_blank" href="https://omgdrops.com/karameladao/karameladao-nft-citizenship-first-builders_XnrLpELhoy/"><MainButton text={"Buy a Citizenship NFT"} /></a>
             <a href="https://discord.gg/dKdeANjg8p"><HollowButton icon={<Discord />} text={"Join discord"} /></a>
+            <a href="https://wiki.karameladao.com/"><MainButton text={"Learn more"} /></a>
           </div>
         </div>
       </div>
