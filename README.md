@@ -7,9 +7,7 @@ coverY: 0
 
 KaramelaDAO is a for-profit decentralized autonomous organization.
 
-Inside Karamela you will find Teams and Projects , with goals that range from education to profitability.
-
-KaramelaDAO’s goal is to be the first DAO to reach 1Billion in revenue from all projects.
+Inside Karamela you will find Teams and Projects, with goals that range from education to profitability.
 
 We don’t have hierarchy, people are organized in Teams in a free and open way, in which everyone is invited to participate and make additions.
 
@@ -21,7 +19,7 @@ We don’t have hierarchy, people are organized in Teams in a free and open way,
 
 \-Democratize via education access and use of NFTs and Cryptos in an equitable manner
 
-\-Providing meta-knowledge for the future …&#x20;
+\-Providing meta-knowledge for the future
 
 \-Identification of potential organizations that deal with issues included in the DAO’s vision and investment opportunities&#x20;
 
